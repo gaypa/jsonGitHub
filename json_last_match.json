@@ -1,7 +1,5 @@
-{
-  "match":[
-    {"state": "Win", "level" : "level 1", "date" : "24/11/2020 23:14"},
-    {"state": "Lose", "level" : "level 3", "date" : "23/11/2020 20:21"},
-    {"state": "Lose", "level" : "level 3", "date" : "23/11/2020 18:35"}
-  ]
-}
+[
+  {"state": "Win", "level" : "level 1", "date" : "24/11/2020 23:14"},
+  {"state": "Lose", "level" : "level 3", "date" : "23/11/2020 20:21"},
+  {"state": "Lose", "level" : "level 3", "date" : "23/11/2020 18:35"}
+]

@@ -1,15 +1,15 @@
 [
-  {"user": "Lightnar", "conectadoion" : "conectado"},
-  {"user": "Pepe65", "conectadoion" : "desconectado"},
-  {"user": "Sniper", "conectadoion" : "conectado"},
-  {"user": "Pepito", "conectadoion" : "conectado"},
-  {"user": "Juanito", "conectadoion" : "conectado"},
-  {"user": "Mayor", "conectadoion" : "desconectado"},
-  {"user": "Killer", "conectadoion" : "conectado"},
-  {"user": "TheBest", "conectadoion" : "desconectado"},
-  {"user": "ElChino123", "conectadoion" : "conectado"},
-  {"user": "Andresgp97", "conectadoion" : "conectado"},
-  {"user": "Wallace65", "conectadoion" : "desconectado"},
-  {"user": "Elsa45", "conectadoion" : "conectado"},
-  {"user": "Lucy", "conectadoion" : "conectado"}
+  {"user": "Lightnar", "connection" : "conectado"},
+  {"user": "Pepe65", "connection" : "desconectado"},
+  {"user": "Sniper", "connection" : "conectado"},
+  {"user": "Pepito", "connection" : "conectado"},
+  {"user": "Juanito", "connection" : "conectado"},
+  {"user": "Mayor", "connection" : "desconectado"},
+  {"user": "Killer", "connection" : "conectado"},
+  {"user": "TheBest", "connection" : "desconectado"},
+  {"user": "ElChino123", "connection" : "conectado"},
+  {"user": "Andresgp97", "connection" : "conectado"},
+  {"user": "Wallace65", "connection" : "desconectado"},
+  {"user": "Elsa45", "connection" : "conectado"},
+  {"user": "Lucy", "connection" : "conectado"}
 ]
